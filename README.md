@@ -5,7 +5,7 @@ A hook API for Wechat,base Wechat for PC. 基于pc端微信hook的微信个人�
 
 弃坑，最新可用版本 ：
 
-https://wechaty.gitbook.io/wechaty/v/zh/
+https://wechaty.js.org/2021/04/13/wechaty-uos-web/
 
 https://wechaty.gitbook.io/wechaty/v/zh/
 
